@@ -1,1 +1,1 @@
-# cvae-wgan
+# cvae-dcgan
